@@ -52,11 +52,14 @@
 
 ## 🚀 Projeto em destaque
 
+🔹 **System - Supermarket**  
+- Supermarket (Sistema de ponto de venda de supermercado)
+
 🔹 **Tech Solution**  
 - Tech Solution (Sistema de gerenciamento empresarial)
 
 🔹 **Calculadora de IMC**  
-- Calculadora de IMC(Calculadora de Indice corporal).
+- Calculadora de IMC(Calculadora de Indice corporal)
 
 ---
 
