@@ -58,8 +58,8 @@
 🔹 **Tech Solution**  
 - Tech Solution (Sistema de gerenciamento empresarial)
 
-🔹 **Calculadora de IMC**  
-- Calculadora de IMC(Calculadora de Indice corporal)
+🔹 **System Totem Fast Foof**  
+- Sistema para Totem de Fastfood
 
 ---
 
